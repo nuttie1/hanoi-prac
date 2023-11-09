@@ -1,2 +1,2 @@
 # hanoi-prac
-Hanoi towers example using python. 
+Stackish Hanoi towers example using python. For school presentation.
